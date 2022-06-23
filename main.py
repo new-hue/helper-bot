@@ -139,4 +139,4 @@ async def tweet(ctx, *, text):
 
 keep_alive.keep_alive()
 # ACTUALLY logs the bot in
-bot.run('OTAzNzM4NDcwNjAwNzA0MDQy.YXxWCg.7GJqJC7KNviRiw46sKEDSbP_wsE')
+bot.run('YOU THOUGHT!')
